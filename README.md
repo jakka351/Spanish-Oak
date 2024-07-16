@@ -6,3 +6,14 @@
 The Spanish Oak Flash Tool is software to read and write the flash memory of a Spanisk Oak 1024k Powertrain Control Module. It has been tested on a PCM from a Ford FG Falcon. The software is free to download, however in order to use the flashing functionality you must purchase an unlock key which can be done from the software. 
 
 ***
+## Recommended Interface
+The OBDxPro FT J2534 interface is the recommended interface for use with this software, available at https://obdxpro.com/.
+
+## Support
+If you require technical support contact Tester Present Specialist Automotive Solutions on Facebook @ https://facebook.com/testerPresent
+
+## Contact
+Email at jakka351@outlook.com
+
+## Webpage
+https://testerpresent.com.au
