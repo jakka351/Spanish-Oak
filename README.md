@@ -3,7 +3,7 @@
 
 
 <img src="https://github.com/user-attachments/assets/43a38fd5-3ccb-4d68-9ff8-fa1d7500c8fd" width="25%" height="25%" align="right"/>
-The Spanish Oak Flash Tool is software to read and write the flash memory of a Spanisk Oak 1024k Powertrain Control Module. It has been tested on a PCM from a Ford FG Falcon. The software is free to download, however in order to use the flashing functionality you must purchase an unlock key which can be done from the software. 
+The Spanish Oak Flash Tool is software to read and write the flash memory of a Spanisk Oak 1024k Powertrain Control Module. It has been tested on a PCM from a Ford FG Falcon. The software is free to download, however in order to use the flashing functionality you must purchase an unlock key which can be done from the software. I am actively seeking to teet this software on circa 2005 Ford Crown Victorias and Mustang GTs, if you can assist with this please get in touch.
 
 ***
 ## Cost
