@@ -5,6 +5,9 @@
 <img src="https://github.com/user-attachments/assets/43a38fd5-3ccb-4d68-9ff8-fa1d7500c8fd" width="25%" height="25%" align="right"/>
 The Spanish Oak Flash Tool is software to read and write the flash memory of a Spanisk Oak 1024k Powertrain Control Module. It has been tested on a PCM from a Ford FG Falcon. The software is free to download, however in order to use the flashing functionality you must purchase an unlock key which can be done from the software. I am actively seeking to test this software on circa 2005 Ford Crown Victorias and Mustang GTs, if you can assist with this please get in touch.
 
+
+Update 18/10/2024 - Investigating the possibility of using this software with Aston Martin PCMs, Aston Martin used the EEC-VI up until 2014.
+
 ***
 ## Cost
 Price is $99 AUD for a 24 Hour Diagnostic Session.
